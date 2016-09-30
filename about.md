@@ -1,15 +1,34 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Currículum
+permalink: /
 ---
+## **Datos Personales**
+* **Nombre:**
+* **Apellidos:** 
+* **Fecha de Nacimiento:** 
+* **Domicilio:**
+* **Teléfono:** 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## **Formación Técnica**
+*  **Nivel:**
+*  **Nivel:** 
+* **Nivel:** 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+## **Experiencia Laboral**
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+## **Idiomas**
+
+
+## **Cursos**
+
+
+## **Información adicional**
+### Interes personales
+
+### Interes laborales
+
+### Valores personales
+
+### Permiso de conducir B y disponibilidad de vehículo propio
